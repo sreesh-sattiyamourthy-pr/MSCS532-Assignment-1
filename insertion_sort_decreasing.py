@@ -2,7 +2,7 @@
 # Project: MSCS532 Assignment 1 - Insertion Sort Algorithm (Monotonically Decreasing)
 # Author: Sresh
 # Date: 2025-10-25
-# 
+
 # ==============================================================================
  
 def insertion_sort(arr):
@@ -54,4 +54,5 @@ if __name__ == "__main__":
 # Original Array: [12, 11, 13, 5, 6]
 # Sorted Array (Monotonically Decreasing): [13, 12, 11, 6, 5]
 # ==============================================================================
+
 
