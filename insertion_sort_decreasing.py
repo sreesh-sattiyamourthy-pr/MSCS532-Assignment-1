@@ -2,13 +2,6 @@
 # Project: MSCS532 Assignment 1 - Insertion Sort Algorithm (Monotonically Decreasing)
 # Author: Sresh
 # Date: 2025-10-25
-# Description:
-# This program implements the Insertion Sort algorithm to sort a list of numbers
-# in monotonically decreasing order. The Insertion Sort algorithm works by
-# iteratively inserting each element from an unsorted portion of the list into 
-# its correct position in the sorted portion of the list.
-# The goal of this project is to demonstrate the concept of sorting algorithms 
-# and to practice using version control through GitHub.
 # 
 # ==============================================================================
  
@@ -61,3 +54,4 @@ if __name__ == "__main__":
 # Original Array: [12, 11, 13, 5, 6]
 # Sorted Array (Monotonically Decreasing): [13, 12, 11, 6, 5]
 # ==============================================================================
+
